@@ -60,10 +60,10 @@
                             </div>
                             <div class="radio">
 	                      <select class="form-control"> 
-                             <c:forEach var="${ty.getype}" >
-   							Item <c:out value="${i}"/><p>
-<!--    							<option value="one">One</option> -->
-														</c:forEach>
+                          <%--    <c:forEach var="${ty.getype}" >
+   							Item <c:out value="${i}"/><p> --%>
+<!--    					<%-- 		<option value="one">One</option> -->
+														</c:forEach> --%>
     									
     									
 <!-- 									</select> --> 
